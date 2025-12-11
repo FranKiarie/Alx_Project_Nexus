@@ -1,0 +1,2 @@
+# Polls application package
+
